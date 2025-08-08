@@ -6,9 +6,9 @@
 
 ## 🚀 Sobre mí
 
-**Ubicación:** "Alcobendas, Madrid, España 🇪🇸"
-**Enfoque:** "Desarrollo Web y Mobile con atención al detalle"
-**Filosofia:** "Código limpio, experiencia de usuario excepcional"
+**Ubicación: Alcobendas, Madrid, España 🇪🇸**
+**Enfoque: Desarrollo Web y Mobile con atención al detalle**
+**Filosofia: Código limpio, experiencia de usuario excepcional**
 
 
 🎯 **Especializado en desarrollo móvil con React Native**  
