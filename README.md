@@ -6,15 +6,10 @@
 
 ## 🚀 Sobre mí
 
-const desarrollador = {
-ubicacion: "San Sebastián de los Reyes, Madrid, España 🇪🇸",
-especialidades: ["React Native", "SQLite", "Componentes UI"],
-enfoque: "Desarrollo móvil con atención al detalle",
-filosofia: "Código limpio, experiencia de usuario excepcional",
-asistente_ia_favorito: "Jarvis 🤖"
-};
+**Ubicación:** "Alcobendas, Madrid, España 🇪🇸",
+**Enfoque:** "Desarrollo Web y Mobile con atención al detalle",
+**Filosofia:** "Código limpio, experiencia de usuario excepcional",
 
-text
 
 🎯 **Especializado en desarrollo móvil con React Native**  
 🔧 **Experto en integración de bases de datos SQLite**  
@@ -39,18 +34,12 @@ text
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
 </div>
 
 ## 📊 Estadísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esau-ez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🏆 Proyectos Destacados
@@ -59,31 +48,16 @@ text
 - **🔍 ScanHub Pro**: Aplicación de escaneo con manejo avanzado de entrada de datos
 - **🎨 UI Kit**: Librería de componentes reutilizables y modales personalizados
 
-### 🛠️ Soluciones Técnicas
-// Ejemplo de mi enfoque para componentes reutilizables
-const CustomModal = ({ visible, onClose, children }) => {
-return (
-<Modal transparent={true} animationType="slide" visible={visible} onRequestClose={onClose} >
-<TouchableOpacity style={styles.overlay} activeOpacity={1} onPress={onClose} >
-<View style={styles.content}>
-{children}
-</View>
-</TouchableOpacity>
-</Modal>
-);
-};
-
-text
 
 ## 📈 Actividad de Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esau-ez&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ## 🎯 Enfoque de Trabajo
 
-> *"Prefiero trabajar en modo de enfoque para minimizar distracciones y maximizar la productividad"*[1]
+> *"Prefiero trabajar en modo de enfoque para minimizar distracciones y maximizar la productividad"*
 
 - 🧘‍♂️ **Modo de enfoque**: Desarrollo concentrado y eficiente
 - 🔄 **Iteración continua**: Mejora constante del código
@@ -92,27 +66,14 @@ text
 
 ## 📍 Desde Madrid al Mundo
 
-📍 San Sebastián de los Reyes, Madrid
+📍 Alcobendas, Madrid
 🌍 Proyectos globales
 🕐 Zona horaria: CEST (UTC+2)
 💼 Disponible para colaboraciones
 
-text
-
-## 🤝 Conecta Conmigo
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=esau-ez&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
 </div>
 
 <div align="center">
