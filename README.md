@@ -1,39 +1,41 @@
 # ¡Hola! 👋 Soy Esaú
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+React+Native;Experto+en+Bases+de+Datos;San+Sebastián+de+los+Reyes%2C+Madrid;Creando+soluciones+móviles+innovadoras" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+React+Native;Experto+en+Bases+de+Datos;Alcobendas%2C+Madrid;Creando+soluciones+móviles+innovadoras" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mí
 
-**Ubicación: Alcobendas, Madrid, España 🇪🇸**
-**Enfoque: Desarrollo Web y Mobile con atención al detalle**
-**Filosofia: Código limpio, experiencia de usuario excepcional**
-
-
-🎯 **Especializado en desarrollo móvil con React Native**  
-🔧 **Experto en integración de bases de datos SQLite**  
-🎨 **Creador de componentes UI reutilizables y modales**  
-📱 **Especialista en funciones de escaneo y manejo de entrada**  
-🌍 **Basado en Madrid, trabajando para el mundo**
+📍 **Ubicación: Alcobendas, Madrid, España 🇪🇸**   
+🎯 **Enfoque: Desarrollo Web y Mobile con atención al detalle**   
+💡 **Filosofía: Código limpio, experiencia de usuario excepcional**   
+🔧 **Experto en integración de bases de datos**  
+🎨 **Creador de componentes UI reutilizables**  
 
 ## 🛠️ Stack Tecnológico
 
-<div align="center">
+<div align="start">
 
-### Frontend Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 💻 Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### Bases de Datos
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🎨 Frontend & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### Herramientas y Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Herramientas y Plataformas
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
 ## 📊 Estadísticas GitHub
@@ -42,12 +44,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esau-ez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esau-ez&theme=radical" alt="GitHub Streak" />
+</div>
+
 ## 🏆 Proyectos Destacados
 
 ### 📱 Aplicaciones React Native
 - **🔍 ScanHub Pro**: Aplicación de escaneo con manejo avanzado de entrada de datos
 - **🎨 UI Kit**: Librería de componentes reutilizables y modales personalizados
 
+### 🐍 Proyectos Python
+- **🤖 Automation Scripts**: Scripts de automatización y productividad
+
+### ☕ Aplicaciones Java
+- **⚙️ Backend Services**: Servicios backend robustos y escalables
 
 ## 📈 Actividad de Contribuciones
 
@@ -59,23 +70,18 @@
 
 > *"Prefiero trabajar en modo de enfoque para minimizar distracciones y maximizar la productividad"*
 
-- 🧘‍♂️ **Modo de enfoque**: Desarrollo concentrado y eficiente
-- 🔄 **Iteración continua**: Mejora constante del código
-- 📱 **Mobile-first**: Experiencia de usuario optimizada para móvil
-- 🤝 **Colaboración profesional**: Comunicación clara y efectiva[2]
-
-## 📍 Desde Madrid al Mundo
-
-📍 Alcobendas, Madrid
-🌍 Proyectos globales
-🕐 Zona horaria: CEST (UTC+2)
-💼 Disponible para colaboraciones
+🧘‍♂️ **Modo de enfoque:** Desarrollo concentrado y eficiente**   
+🔄 **Iteración continua:** Mejora constante del código   
+📱 **Mobile-first:** Experiencia de usuario optimizada para móvil   
+🤝 **Colaboración profesional:** Comunicación clara y efectiva
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=esau-ez&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
-</div>
+**📍 Ubicación:** Alcobendas, Madrid   
+**🌍 Alcance:** Proyectos globales   
+**🕐 Zona horaria:** CEST (UTC+2)   
+**💼 Estado:** Disponible para colaboraciones
 
+---
 <div align="center">
   <i>💡 "La mejor manera de predecir el futuro es creándolo" - Desarrollando desde Madrid 🚀</i>
 </div>
